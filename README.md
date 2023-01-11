@@ -1,2 +1,2 @@
-#!/bin/bash 
-Shellbasics 0x00
+#!/bin/bash
+pwd
